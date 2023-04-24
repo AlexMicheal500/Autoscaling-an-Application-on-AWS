@@ -84,6 +84,8 @@ For the second Security group, make sure to expose mysql, ssh and http. ssh eill
 ![image](https://user-images.githubusercontent.com/99332618/233974421-bcfbc2ee-de41-4ff6-b261-c0f7ad2ba2ff.png)
 ![image](https://user-images.githubusercontent.com/99332618/233974480-02e1ab8f-c623-4bf0-9abc-83277dca6355.png)
 ![image](https://user-images.githubusercontent.com/99332618/233974555-b6093cc4-56b3-4b51-94bb-678fc9e797af.png)
+![image](https://user-images.githubusercontent.com/99332618/233975572-2b602067-d0f6-4fad-8c31-0e66eb50d7f0.png)
+
 
 
 
