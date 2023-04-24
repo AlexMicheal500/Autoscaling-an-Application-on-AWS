@@ -85,6 +85,11 @@ For the second Security group, make sure to expose mysql, ssh and http. ssh eill
 ![image](https://user-images.githubusercontent.com/99332618/233974480-02e1ab8f-c623-4bf0-9abc-83277dca6355.png)
 ![image](https://user-images.githubusercontent.com/99332618/233974555-b6093cc4-56b3-4b51-94bb-678fc9e797af.png)
 ![image](https://user-images.githubusercontent.com/99332618/233975572-2b602067-d0f6-4fad-8c31-0e66eb50d7f0.png)
+![image](https://user-images.githubusercontent.com/99332618/233975994-b18d176f-9109-4291-853f-36685250c2b2.png)
+![image](https://user-images.githubusercontent.com/99332618/233976574-a9d23008-4229-418f-842c-4260e251a3cd.png)
+
+We have to wait for database to be created abd get an endpoint because it takes time to be created.
+![image](https://user-images.githubusercontent.com/99332618/233976975-29ca8318-e42c-452c-8010-f36a827a5be7.png)
 
 
 
