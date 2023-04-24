@@ -27,3 +27,13 @@ Autoscaling an Application on AWS
 ![image](https://user-images.githubusercontent.com/99332618/233866342-fb3de414-8be8-42e2-be70-c33ef5623270.png)
 ![image](https://user-images.githubusercontent.com/99332618/233866541-5bbc2c7b-aee0-4858-b98c-ecc23a4d58b8.png)
 ![image](https://user-images.githubusercontent.com/99332618/233866630-ad2643ed-8658-4c87-9c3c-8a4b86bfea28.png)
+![image](https://user-images.githubusercontent.com/99332618/233948076-9b988b3e-029c-44bc-b2ef-70f0db0be2a1.png)
+![image](https://user-images.githubusercontent.com/99332618/233948232-5eca3c6b-3c95-4bbf-8f35-282e2ccb603e.png)
+
+Note: Enable "Auto-assign IP settings" for public subnets only
+![image](https://user-images.githubusercontent.com/99332618/233948342-8ca43100-82b8-4337-996e-5c6e070fb034.png)
+
+CONT'D
+![image](https://user-images.githubusercontent.com/99332618/233948925-74c1ef11-49ce-4372-b641-0c7c3de2fac3.png)
+
+
