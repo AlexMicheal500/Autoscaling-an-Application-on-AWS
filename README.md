@@ -1,5 +1,20 @@
 # Autoscaling-an-Application-on-AWS
-Autoscaling an Application on AWS
+Autoscaling an Application on AWS https://www.youtube.com/watch?v=JubPv_UkBDg
+
+Just follow the steps given in the video. Do let me know in comments if you face any problem
+============================
+Subscribe my channel -   
+
+ / @devopstutorial  
+==========================
+Below Topics I will cover in this Video 
+
+- Creation of VPC in AWS Cloud
+- Creation of Launch Template 
+- Creation of Autoscaling group 
+- Creation of RDS Database 
+- Creation of EC2 Instance 
+
 ![image](https://user-images.githubusercontent.com/99332618/233861905-9a27cbc6-eb8e-498c-b8fc-104e69128c60.png)
 ![image](https://user-images.githubusercontent.com/99332618/233861950-64949d12-d021-41f4-b800-aa0a108fd384.png)
 ![image](https://user-images.githubusercontent.com/99332618/233862834-1cb37b88-169d-4b24-8eb0-6d885dd0479b.png)
