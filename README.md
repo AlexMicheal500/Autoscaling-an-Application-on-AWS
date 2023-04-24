@@ -66,5 +66,10 @@ Configure group size and scaling policies - optional (Make no changes too) and c
 ![image](https://user-images.githubusercontent.com/99332618/233954475-1389b771-99c3-40b4-ab2c-1387ab0241dc.png)
 
 Create a Lunch template for application tier too.
+![image](https://user-images.githubusercontent.com/99332618/233966885-e85c7e81-fa0c-4a5e-bc76-92be8bcb840f.png)
+For the second Security group, make sure to expose mysql, ssh and http. ssh eill be connected to webSG security group created earlier.
+
+![image](https://user-images.githubusercontent.com/99332618/233967509-9ae4aef8-ec32-4e19-9998-8248eba2c33c.png)
+![image](https://user-images.githubusercontent.com/99332618/233968083-0728c074-7fdb-49de-ba46-025aaabf783f.png)
 
 
