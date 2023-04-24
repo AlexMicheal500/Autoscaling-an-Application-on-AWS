@@ -62,7 +62,7 @@ yum update -y
 yum install -y httpd
 systemctl start httpd
 systemctl enable https
-echo "<html><body><h1>Vicky Website - Demo for 3Tier Application</h1></body></html>" >/var/www/html/index.html
+echo "<html><body><h1>Alex Website - I am Alex and I love devops</h1></body></html>" >/var/www/html/index.html
 
 ![image](https://user-images.githubusercontent.com/99332618/233951289-ed1215e4-7536-46e1-9308-3f1e7f7e10db.png)
 ![image](https://user-images.githubusercontent.com/99332618/233951779-ac4bff2d-e8f4-4bf4-9451-d1438d30878b.png)
