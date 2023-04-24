@@ -35,5 +35,17 @@ Note: Enable "Auto-assign IP settings" for public subnets only
 
 CONT'D
 ![image](https://user-images.githubusercontent.com/99332618/233948925-74c1ef11-49ce-4372-b641-0c7c3de2fac3.png)
+![image](https://user-images.githubusercontent.com/99332618/233950544-89ec8c38-e920-45bf-bca1-4d10e01e35b4.png)
+![image](https://user-images.githubusercontent.com/99332618/233950610-7dc28520-f306-4d12-9104-689770628a3d.png)
+![image](https://user-images.githubusercontent.com/99332618/233950695-b8914f54-e994-4207-b175-7aa2c0019bc2.png)
+![image](https://user-images.githubusercontent.com/99332618/233950787-af0a9beb-3b1b-4f25-b2ce-4b025c9b9f5f.png)
+![image](https://user-images.githubusercontent.com/99332618/233950860-283f80ca-a0fc-4393-9c52-93d544ab6e79.png)
+![image](https://user-images.githubusercontent.com/99332618/233950999-c87b8d7f-7faf-4fe0-a99a-7132c5b3b49a.png)
 
+#!/bin/bash
+yum update -y
+yum install -y httpd
+systemctl start httpd
+systemctl enable https
+echo "<html><body><h1>Vicky Website - Demo for 3Tier Application</h1></body></html>" >/var/www/html/index.html
 
