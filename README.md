@@ -49,3 +49,17 @@ systemctl start httpd
 systemctl enable https
 echo "<html><body><h1>Vicky Website - Demo for 3Tier Application</h1></body></html>" >/var/www/html/index.html
 
+![image](https://user-images.githubusercontent.com/99332618/233951289-ed1215e4-7536-46e1-9308-3f1e7f7e10db.png)
+![image](https://user-images.githubusercontent.com/99332618/233951779-ac4bff2d-e8f4-4bf4-9451-d1438d30878b.png)
+![image](https://user-images.githubusercontent.com/99332618/233951836-10c9bff7-c792-45da-bd7b-8eade0d3c34c.png)
+![image](https://user-images.githubusercontent.com/99332618/233952269-1c33d895-82f7-4ef0-aa32-0b3f9c9cb43c.png)
+![image](https://user-images.githubusercontent.com/99332618/233952424-15ecea6a-b8af-441a-96b3-527ef021b3b5.png)
+
+Do not make any changes on the load blancer page and Click "Next"
+
+Configure group size and scaling policies - optional (Make no changes too) and clck "Next"
+
+![image](https://user-images.githubusercontent.com/99332618/233953537-27f5446b-1b06-4304-98ca-8a56575ff7f2.png)
+![image](https://user-images.githubusercontent.com/99332618/233953627-f25a7fdb-76f0-4060-92fe-6096f48473ce.png)
+![image](https://user-images.githubusercontent.com/99332618/233954010-9c1a720b-1861-4714-9cdb-b5095d103c36.png)
+
