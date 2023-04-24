@@ -71,7 +71,19 @@ For the second Security group, make sure to expose mysql, ssh and http. ssh eill
 
 ![image](https://user-images.githubusercontent.com/99332618/233967509-9ae4aef8-ec32-4e19-9998-8248eba2c33c.png)
 ![image](https://user-images.githubusercontent.com/99332618/233968083-0728c074-7fdb-49de-ba46-025aaabf783f.png)
-![image](https://user-images.githubusercontent.com/99332618/233971305-2bff8d70-db8e-4ff0-942f-2d1bb2b6325c.png)
+![image](https://user-images.githubusercontent.com/99332618/233971305-2bff8d70-db8e-4ff0-942f-2d1bb2b6325c.png)![image](https://user-images.githubusercontent.com/99332618/233972331-d056f461-40c4-46f2-9a70-b42c055615bf.png)
+![image](https://user-images.githubusercontent.com/99332618/233972421-89aedd9c-aff5-42bb-96ed-fc46303f9496.png)
+![image](https://user-images.githubusercontent.com/99332618/233971791-184fbb89-dfe0-4e59-986a-fa759316bea6.png)
+![image](https://user-images.githubusercontent.com/99332618/233972587-714c5859-0842-4d36-bf91-cbb236efd337.png)
+![image](https://user-images.githubusercontent.com/99332618/233973941-5363a478-62d2-47a3-8edb-7a8ab104bb83.png)
+![image](https://user-images.githubusercontent.com/99332618/233973996-28c2e9a6-0019-4700-aedb-7f53974019d6.png)
+![image](https://user-images.githubusercontent.com/99332618/233974063-ed0f15b2-2535-43d1-b58f-8fb9f57f8a2c.png)
+![image](https://user-images.githubusercontent.com/99332618/233974127-f7f6e699-123f-465e-82e0-e25f6d6ed276.png)
+![image](https://user-images.githubusercontent.com/99332618/233974228-e99ea7b6-a68f-4b1e-9426-57d8b4699fc7.png)
+![image](https://user-images.githubusercontent.com/99332618/233974311-b88d7cb7-3f83-42f5-825d-46f8a390ce8b.png)
+![image](https://user-images.githubusercontent.com/99332618/233974421-bcfbc2ee-de41-4ff6-b261-c0f7ad2ba2ff.png)
+![image](https://user-images.githubusercontent.com/99332618/233974480-02e1ab8f-c623-4bf0-9abc-83277dca6355.png)
+![image](https://user-images.githubusercontent.com/99332618/233974555-b6093cc4-56b3-4b51-94bb-678fc9e797af.png)
 
 
 
