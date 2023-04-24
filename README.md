@@ -65,3 +65,6 @@ Configure group size and scaling policies - optional (Make no changes too) and c
 
 ![image](https://user-images.githubusercontent.com/99332618/233954475-1389b771-99c3-40b4-ab2c-1387ab0241dc.png)
 
+Create a Lunch template for application tier too.
+
+
